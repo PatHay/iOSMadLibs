@@ -14,6 +14,7 @@
 		870972C41FB24A24006B0373 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 870972C21FB24A24006B0373 /* LaunchScreen.storyboard */; };
 		870972CF1FB24A24006B0373 /* MadLibsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870972CE1FB24A24006B0373 /* MadLibsTests.swift */; };
 		870972DA1FB24A24006B0373 /* MadLibsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870972D91FB24A24006B0373 /* MadLibsUITests.swift */; };
+		870972E81FB25AF2006B0373 /* MadLibViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870972E71FB25AF2006B0373 /* MadLibViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		870972D51FB24A24006B0373 /* MadLibsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MadLibsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		870972D91FB24A24006B0373 /* MadLibsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MadLibsUITests.swift; sourceTree = "<group>"; };
 		870972DB1FB24A24006B0373 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		870972E71FB25AF2006B0373 /* MadLibViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MadLibViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				870972B91FB24A24006B0373 /* AppDelegate.swift */,
 				870972BB1FB24A24006B0373 /* ViewController.swift */,
 				870972BD1FB24A24006B0373 /* Main.storyboard */,
+				870972E71FB25AF2006B0373 /* MadLibViewController.swift */,
 				870972C01FB24A24006B0373 /* Assets.xcassets */,
 				870972C21FB24A24006B0373 /* LaunchScreen.storyboard */,
 				870972C51FB24A24006B0373 /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				870972BC1FB24A24006B0373 /* ViewController.swift in Sources */,
 				870972BA1FB24A24006B0373 /* AppDelegate.swift in Sources */,
+				870972E81FB25AF2006B0373 /* MadLibViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
